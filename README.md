@@ -12,14 +12,14 @@ const {data:res} = await this.$http.get(
 
    )
 
-发送请求
+##发送请求
 
 npm run serve
 
 npm install
 node./app.js
 
-windows+R 打开终端
+#windows+R 打开终端
  vue ui 创建可视化面板
 
 git add .
